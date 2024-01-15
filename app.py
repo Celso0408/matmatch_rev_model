@@ -4,6 +4,7 @@ from dash.dependencies import Input, Output
 
 
 app = Dash(__name__)
+server = app.server
 
 fig = go.Figure()
 
