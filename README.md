@@ -2,7 +2,7 @@
 Matmatch revenue model
 
 # Get this app running by 
-python app.py
+```python app.py```
 
 # Dependencies
 - dash
